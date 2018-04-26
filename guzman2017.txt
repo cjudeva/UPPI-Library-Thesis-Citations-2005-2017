@@ -1,0 +1,37 @@
+Guzman, Marianne Amparo (35)
+References
+Asian Development Bank. (2009). Poverty in the Philippines: causes, constrains and opportunities. Mandaluyong City, Philippines.
+Baguinon, N. & Casas, E.V. (2009). Optimizing landscape value for man and nature: a case study of land suitability mapping to conserve biodiversity in Lawaan, Eastern Samar, Philippines. Applied GIS, 5(1).
+Balisacan, A.M. & Hill, H. (2005). Regional dynamics and decentralization in the Philippines: Ten lessons from a 'fast starter'. Research School of Pacific and Asian Studies. The Australian National University.
+Bersamin, M., Todd, M. & Remer, L. (2011). Does distance matter? Access to family planning clinics and adolescent sexual behaviors. Maternal Child Health Journal, 15, 652-659. DOI 10.1007/510995-010-0618-3. 
+Brownstein, J., Cassa, C., Kohane, I. & K. Mandl. (2005). Reverse geocoding: concerns about patient confidentiality in the display of geospatial health data. AMIAA Annual Symposium Proceedings.
+Buckley, R., Gahegan,  M., & K. Clarke. (2000). Geographic visualization as an emerging research theme in GIScience. Oregon State University. Retrieved from http://dusk.geo.orst.edu/ucgis/web/emerging/Geographic_visualization.pdf on May 2017
+Burgert, C. R., Colston,  J., Roy, T. & Zachary, B. (2013). Geographic displacement procedure and geo referenced data release policy for the demographic and health surveys. DHS Special Analysis Reports No. 7. Calverton, Maryland: ICE International.
+Coale, A. (1973). The demographic transition international population conference. International Union for the Scientific Study on Population, 1, 53-73.
+Curran, S., Entswisle, B., Evans, T., Rindfuss, R. & Walsh. S.J. (1997). Geographic Information System, spatial network analysis, and contraceptive choice. Demography, 34(2), 171.
+Health Policy Development and Planning Bureau Department of Health. (2012). National Objectives for Health Philippines, 2011-2016. Health Sector Reform Agenda Monograph No. 12.
+Herrin, A. (2002). Population Policy in the Philippines, 1969-2002. PIDS discussion paper series, No. 2002-08. Makati City: Philipines Institute for Development Studies.
+Jones, G. (2013). The population of Southeast Asia. ARI Working Paper, No. 196. Retrieved from www.nus.ari.edu.sg/pub/wps.htm
+Lakew, Y., Reda, A.V., Tamene, H., Benedict, S., & Deribe, K. (2013). Geographical variation and factors influencing modern contraceptive use among married women in Ethiopia: evidence from a national population based survey. Reproductive Health Journal, 10(52). Retrieved from http://www.reproductive-health-journal.com/content/10/1/S2
+Lamberte, E., Lee, N., Garganian, D., & Kantner, A. (2000). Family Planning Service Utilization and Market Segmentation in the Philippines. Calverton, Maryland: ORC Macro. Retrieved at http://dhsprogram.com/pubs/pdf/FA34/FA34.pdf
+Leonardo, L., Marcelo, A., Solon, J. A. & Villasper, J. (2007). Geographic information systems in health research and services delivery in the Philippines. Geospatial Health (June 2007).
+Population Reference Bureau. (2006). Making the link in the Philippines: Population, health and environment. Retrieved from http://www.prb.org/pdf06/05MakingtheLink_Philippines.pdf
+Namulanda, G. (2005). HIV/AIDS, GIS and the internet: Efficient health care planning and equitable resource allocation for HIV/AIDS health and social services. Paper presented to the Faculty of Graduate School, University of Missouri.
+National Epidemiology Center. 2008. Field health services and information system.
+National Epidemiology Center. 2013. Field health services and information system.
+Orbeta, A. (2004). Population and poverty at the household level: revisiting the links using the household surveys. Paper presented at the lPD+10 National Conference, Heritage Hotel, Manila.
+Orbeta, A. (2006). Poverty, fertility preferences and family planning practices in the Philippines. Philippine Journal of Development, 33(1-2). Retrieved from http://dirp4.pids.gov.ph/ris/pjd/pidspjd06-poverty.pdf
+Paringgit E., Santillian, J. & Makinano, M. (2011). Integrated landsat image analysis and hydrologic modeling to detect impacts of 25-year land-cover change on surface runoff in a Philippine watershed. Remote Sensing, 3. doi:10.3390/r53061067.
+Philippine Statistics Authority (PSA), & ICE Macro. (2009). National demographic and health survey 2008. Calverton, Maryland: National Statistics Office and ICE Macro.
+Philippines Statistics Authority (PSA), & ICE International. (2014). Philippines national demographic and health survey 2013. Manila, Philippines and Rockville, Maryland, USA: PSA and ICE International.
+Philippine Statistics Authority (PSA). (n.d.) Tables and thematic maps. 2015 Full Year Poverty Statistics.
+Pickle L., Waller, L. & Lawson, A. (2005). Current practices in cancer spatial data analysis: a call for guidance. International Journal for Health Geographics, 4(3). Retrieved at http://www.ij-healthgeographics.com/content/4/1/3#abs.
+Prata, N. (2007). The need for family planning. Population and Environment, 28, 212-222. DOI 10.1007/511111-007-0042-9. 
+Richards, T., Croner, C., Rushton, G., Brown, C., & Fowler, L. (1999). Geographic information systems and public health: Mapping the future. Public Health Reports, 114(4).
+Robey, B., Rutstein, S., & Morris, L. (1994). The fertility decline in developing countries. Scientific American, 269(6).
+Sherman, J. & Fetters, T. (2007). Confidentiality concerns with mapping survey data in reproductive health research. Population Council & Studies in Family Planning, 38(4). Retrieved from http://www.reproductive-health-journal.com/content/10/1/52.
+Sileo, K. M. (2014). Determinants of family planning service uptake and use of contraceptive among postpartum women in rural uganda. Master's Theses. Paper 602. Retrieved from http://digitalcommons.uconn.edu/gs_theses/602
+Tanskanen, A., Nillos, L., Lehtinen, A., Nohynek, H., Sanvictores, D., Simoes, E., Tallo, V., &  Lucero, M. (2012). Geographic information system and tools of spatial analysis in a pneumococcal vaccine trial. BMC Research Notes, 5(51). Retrieved at http://www.biomedcentral.com/1756-0500/5/51.
+(2008) Using geographic information system tools to address disparities in access to family planning services and commodities in Latin America and the Caribbean.  Virginia: USAID Deliver Project. 
+Wang, W. S., Pullum, T., & Ametepi, P. (2012). How family planning supply and the service environment affect contraceptive use: findings from four East African Countries. DHS Analytical Studies No. 26. Calverton, Maryland, USA: ICF International.
+Wang, W. S., Winner, M., Burger, C., & Colston, V. (2014). Influence of service readiness on use of facility delivery care: a study linking health facility data in Haiti. DHS Working Papers No. 114. Rockviile, Maryland, USA: ICF International.
